@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444632650063",
+    "firebase_url": "https://panrita-addc4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "panrita-addc4",
+    "storage_bucket": "panrita-addc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444632650063:android:e5e570cf3ee130ad30f53a",
+        "android_client_info": {
+          "package_name": "com.example.panritalopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444632650063-enfk14ha61ja4n4beurb18sn5qmuqlbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhp3IL_ErUPBBbsMyFfL4vH3WCCKkyb0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444632650063-enfk14ha61ja4n4beurb18sn5qmuqlbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
